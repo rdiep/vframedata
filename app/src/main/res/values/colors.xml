@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorSecondary">#64b5f6</color>
+    <color name="white">#ffffff</color>
+    <color name="Red">#d10707</color>
+    <color name="Green">#29a70a</color>
+
+
+    <color name="AbigailPrimary">#629286</color>
+    <color name="AkumaPrimary">#662946</color>
+    <color name="AlexPrimary">#608656</color>
+    <color name="BalrogPrimary">#355C7D</color>
+    <color name="BirdiePrimary">#BAA369</color>
+    <color name="BlankaPrimary">#608656</color>
+    <color name="CammyPrimary">#608656</color>
+    <color name="ChunLiPrimary">#178ae5</color>
+    <color name="CodyPrimary">#68a7ca</color>
+    <color name="DhalsimPrimary">#5A2729</color>
+    <color name="EdPrimary">#793698</color>
+    <color name="FalkePrimary">#355C7D</color>
+    <color name="FangPrimary">#793698</color>
+    <color name="GPrimary">#608656</color>
+    <color name="GuilePrimary">#608656</color>
+    <color name="IbukiPrimary">#178ae5</color>
+    <color name="JuriPrimary">#793698</color>
+    <color name="KarinPrimary">#CA002A</color>
+    <color name="KenPrimary">#CA002A</color>
+    <color name="KolinPrimary">#2c2d3c </color>
+    <color name="LauraPrimary">#b7e48a </color>
+    <color name="MBisonPrimary">#793698</color>
+    <color name="MenatPrimary">#793698</color>
+    <color name="NashPrimary">#b7e48a</color>
+    <color name="NecalliPrimary">#5A2729</color>
+    <color name="RashidPrimary">#2c2d3c</color>
+    <color name="RMikaPrimary">#68a7ca </color>
+    <color name="RyuPrimary">#2c2d3c </color>
+    <color name="SagatPrimary">#608656</color>
+    <color name="SakuraPrimary">#CA002A </color>
+    <color name="UrienPrimary">#793698 </color>
+    <color name="VegaPrimary">#CA002A </color>
+    <color name="ZangiefPrimary">#783a3a</color>
+    <color name="ZekuPrimary">#5A2729 </color>
+
+
+
+</resources>
